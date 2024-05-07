@@ -1,13 +1,16 @@
-Kelompo 9 - MIC
+Kelompok 9 - MIC
  
  tampilan home website
  
- ![image](https://github.com/naisyaql/aplikasi-keuangan-api/assets/122934277/7fe86afd-b4bb-4769-8026-cc245a76ae80)
+![Screenshot 2024-05-07 135629](https://github.com/naisyaql/aplikasi-keuangan-api/assets/122934277/37db20ab-e6a2-43fb-ae98-aa58e61b80e4)
+
  
 tampilan data harian - data pemasukan
 
-![image](https://github.com/naisyaql/aplikasi-keuangan-api/assets/122934277/1e35767d-b6c2-4712-95a1-449432885289)
+![Screenshot 2024-05-07 135843](https://github.com/naisyaql/aplikasi-keuangan-api/assets/122934277/6b74196b-30d4-4130-bfd9-3fd23db49763)
+
 
 tampilan input data - data pemasukan
 
-![image](https://github.com/naisyaql/aplikasi-keuangan-api/assets/122934277/302ff454-4795-4d1b-b131-593d86682f56)
+![Screenshot 2024-05-07 140418](https://github.com/naisyaql/aplikasi-keuangan-api/assets/122934277/daad226d-fea1-4941-9e00-821cefe872d3)
+
